@@ -46,7 +46,7 @@ const Filter = ({data}) => {
             Search properties to rent
           </h1>
 
-          <form class="flex items-center ">
+          <div class="flex items-center ">
             <label for="simple-search" class="sr-only">
               Search
             </label>
@@ -77,7 +77,7 @@ const Filter = ({data}) => {
               />
             </div>
            
-          </form>
+          </div>
         </div>
 
         <div className="flex items-center justify-between mt-4">
