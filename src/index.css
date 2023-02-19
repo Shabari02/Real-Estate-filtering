@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+bttn-primary {
+    background-color:  '#A66CFF';
+}
